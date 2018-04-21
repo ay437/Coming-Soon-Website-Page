@@ -11,6 +11,7 @@ body, html {
 }
 
 .bgimg {
+    background-image: url('morocco bg.JPG');
     height: 100%;
     background-position: center;
 
